@@ -1,0 +1,15 @@
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/bin/Debug/net6.0/Calculator
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/bin/Debug/net6.0/ref/Calculator.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/Juliana/Projects/GitHub/C-Solutions/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache

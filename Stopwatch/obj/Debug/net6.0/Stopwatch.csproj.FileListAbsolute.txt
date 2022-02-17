@@ -1,0 +1,15 @@
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/bin/Debug/net6.0/Stopwatch
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/bin/Debug/net6.0/Stopwatch.deps.json
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/bin/Debug/net6.0/Stopwatch.runtimeconfig.json
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/bin/Debug/net6.0/Stopwatch.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/bin/Debug/net6.0/ref/Stopwatch.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/bin/Debug/net6.0/Stopwatch.pdb
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.AssemblyReference.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfo.cs
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/Stopwatch.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/ref/Stopwatch.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/Stopwatch.pdb
+/Users/Juliana/Projects/GitHub/C-Solutions/Stopwatch/obj/Debug/net6.0/Stopwatch.genruntimeconfig.cache

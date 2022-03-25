@@ -71,7 +71,6 @@
                     break;
                 case 6: 
                     int n = int.Parse(Console.ReadLine());
-                    Console.WriteLine(o.Fibonacci(n));
                     (o.Result, sequence) = o.Fibonacci(n);
                     break;
                 default: Menu(true); break;

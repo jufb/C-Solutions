@@ -1,4 +1,4 @@
-# C-Solutions
+# C# Solutions
 Calculator and Stopwatch using C#.
 
 ## How to use:

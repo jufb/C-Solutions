@@ -1,9 +1,13 @@
 # C# Solutions
-Calculator and Stopwatch using C#.
+- Calculator
+- Stopwatch
+- Guess The Number game
+- Palindrome
+- Bank
 
 ## How to use:
 1. Download the files
-2. Access the folder via Terminal/Console
+2. Access the desired application folder via Terminal/Console
 3. Type the command:
 ```
 $ dotnet run

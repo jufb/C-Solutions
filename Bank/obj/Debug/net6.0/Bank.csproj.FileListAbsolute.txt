@@ -1,0 +1,15 @@
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/bin/Debug/net6.0/Bank
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/bin/Debug/net6.0/Bank.deps.json
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/bin/Debug/net6.0/Bank.runtimeconfig.json
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/bin/Debug/net6.0/Bank.dll
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/bin/Debug/net6.0/ref/Bank.dll
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/bin/Debug/net6.0/Bank.pdb
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/Bank.csproj.AssemblyReference.cache
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/Bank.AssemblyInfoInputs.cache
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/Bank.AssemblyInfo.cs
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/Bank.csproj.CoreCompileInputs.cache
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/Bank.dll
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/ref/Bank.dll
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/Bank.pdb
+/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/Bank/obj/Debug/net6.0/Bank.genruntimeconfig.cache

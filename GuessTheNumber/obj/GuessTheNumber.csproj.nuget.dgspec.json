@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/GuessTheNumber.csproj": {}
+    "/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/GuessTheNumber.csproj": {}
   },
   "projects": {
-    "/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/GuessTheNumber.csproj": {
+    "/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/GuessTheNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/GuessTheNumber.csproj",
+        "projectUniqueName": "/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/GuessTheNumber.csproj",
         "projectName": "GuessTheNumber",
-        "projectPath": "/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/GuessTheNumber.csproj",
+        "projectPath": "/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/GuessTheNumber.csproj",
         "packagesPath": "/Users/Juliana/.nuget/packages/",
-        "outputPath": "/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/obj/",
+        "outputPath": "/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Juliana/.nuget/NuGet/NuGet.Config"

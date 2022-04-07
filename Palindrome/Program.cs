@@ -20,7 +20,7 @@ namespace Palindrome
                 
                 //Validates if user wants to continue or exit
                 Console.WriteLine("Want to try again? y/n");
-                string yn = Console.ReadLine().ToLower;
+                string yn = Console.ReadLine().ToLower();
                 IsExit(yn);
             }
             catch {

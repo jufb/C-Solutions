@@ -13,3 +13,18 @@
 /Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/obj/Debug/net6.0/ref/GuessTheNumber.dll
 /Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.pdb
 /Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.genruntimeconfig.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.csproj.AssemblyReference.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.AssemblyInfoInputs.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.AssemblyInfo.cs
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/ref/GuessTheNumber.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.pdb
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber.deps.json
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber.runtimeconfig.json
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/bin/Debug/net6.0/ref/GuessTheNumber.dll
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/bin/Debug/net6.0/GuessTheNumber.pdb
+/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/obj/Debug/net6.0/GuessTheNumber.genruntimeconfig.cache

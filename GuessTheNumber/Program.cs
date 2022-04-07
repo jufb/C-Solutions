@@ -14,11 +14,17 @@ namespace GuessTheNumber
         static int guess = 0;
 
         static void Menu(){
-            Console.WriteLine("Let's Play 'Guess the Number'!");
-            Console.WriteLine("I'm thinking of a number between 0 and 20.");
-            Console.WriteLine("Enter your guess, or -1 to give up.");
+            try {
+                Console.WriteLine("Let's Play 'Guess the Number'!");
+                Console.WriteLine("I'm thinking of a number between 0 and 20.");
+                Console.WriteLine("Enter your guess, or -1 to give up.");
 
-            Guesses();
+                Guesses();
+            }
+            catch {
+                Console.WriteLine("Inform a valid input.");
+                Menu();
+            }
         }
 
         static void Guesses(){
@@ -31,7 +37,7 @@ namespace GuessTheNumber
             }
 
             //Validates if user wants to exit
-            IsExit(succeeded.ToString());
+            IsExit(guess.ToString());
 
             if(guess > theNumber){
                 Console.WriteLine($"Try again! The number is LOWER than {guess}");
@@ -69,6 +75,7 @@ namespace GuessTheNumber
                 case "-1":
                     Console.WriteLine($"The number I was thinking was {theNumber}.\nThank you, bye!");
                     Environment.Exit(1);
+                    break;
                 default: 
                     break;
             }

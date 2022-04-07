@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+kRm+vigRuLxokKn3w+RJ/T3xVoYH67T2HznLzxLp26rxb6+wphV2WJkRqN73sGc+6opBgHwEPCicAYNxqDYRw==",
+  "dgSpecHash": "gQ2s8HpTxWcvH1O/D5HIg9pPb/BhNOb7gxvz9Ia7aYl7a7HjFuaG9q4Al/0Dk90XcdePDMdeubyEKbeFlaTszQ==",
   "success": true,
-  "projectFilePath": "/Users/Juliana/Projects/GitHub/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/CHALLENGES/GuessTheNumber/GuessTheNumber.csproj",
+  "projectFilePath": "/Users/Juliana/Projects/GitHub/C-Solutions/GuessTheNumber/GuessTheNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

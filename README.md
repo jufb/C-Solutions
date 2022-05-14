@@ -5,12 +5,12 @@
 - Palindrome
 - Bank
 
-## How to use:
+## How to use the code:
 1. Download the files
 2. Access the desired application folder via Terminal/Console
 3. Type the command:
 ```
-$ dotnet run
+dotnet run
 ```
 
 ## See the Calculator live:

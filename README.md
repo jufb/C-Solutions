@@ -12,7 +12,3 @@
 ```
 dotnet run
 ```
-
-## See the Calculator live:
-1. https://replit.com/@jufb/Calculator?v=1
-2. Click Run.
